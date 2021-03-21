@@ -1,0 +1,26 @@
+
+body {
+    background: #dd940dd2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100%;
+}
+header .logo {
+    margin-left: 520px;
+}
+main .conteiner {
+    width: 800px;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 1.2rem;
+}
+footer .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 0.8rem;
+}
